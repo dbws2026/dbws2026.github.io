@@ -17,7 +17,7 @@ plugins:
 header_pages:
   - index.md
   - program.md
-  - participants.md
+  - attend.md
   - venue.md
   - awards.md
 

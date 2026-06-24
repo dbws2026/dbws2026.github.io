@@ -1,0 +1,41 @@
+---
+---
+
+@import "minima";
+
+.site-header {
+  border-top: 6px solid #2f5d8c;
+}
+
+.site-title {
+  font-weight: 700;
+}
+
+.page-content {
+  padding-top: 36px;
+}
+
+.hero {
+  background: #f3f7fb;
+  border-left: 6px solid #2f5d8c;
+  padding: 2rem;
+  margin-bottom: 2rem;
+}
+
+.hero h1 {
+  margin-top: 0;
+  font-size: 2rem;
+}
+
+.info-box {
+  border: 1px solid #ddd;
+  padding: 1.2rem;
+  border-radius: 8px;
+  background: #fff;
+}
+
+.notice {
+  background: #fff8e1;
+  border-left: 5px solid #f0b400;
+  padding: 1rem;
+}

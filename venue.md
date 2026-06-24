@@ -1,5 +1,5 @@
 ---
 layout: page
-title: ホーム
+title: 会場
 permalink: /venue/
 ---
