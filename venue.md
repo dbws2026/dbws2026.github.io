@@ -21,3 +21,20 @@ permalink: /venue/
   - ガスト 1km
   - さわやか 1.5km
 - お昼ご飯はお弁当を買ってくるか、駅で食べてくることをお勧めします。
+
+# 会場施設
+<section class="venue-photo-block">
+  <figure class="venue-photo">
+    <img src="/assets/images/venue.jpg" alt="会場">
+    <figcaption>会場</figcaption>
+  </figure>
+</section>
+- 会場は共通講義棟1F教室です。
+- 移動式ホワイトボードにマグネットでポスターを貼って発表します。
+- 当日は受付、お菓子・飲み物の提供がある予定です。
+- 会場はeduroamのネットワークが利用可能です。
+
+# 懇親会会場
+- [LEADER 神明町店](https://www.leader-bg.jp/)
+    - 浜松キャンパスからバス停「田町」降車すぐ
+    - 浜松駅から徒歩10分
