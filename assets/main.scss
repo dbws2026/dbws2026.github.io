@@ -110,6 +110,16 @@ h1.post-title {
   line-height: 1.6;
 }
 
+.member-list a {
+    color: #2f5d8c;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.member-list a:hover {
+    text-decoration: underline;
+}
+
 .history-list {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
