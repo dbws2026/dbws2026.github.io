@@ -59,6 +59,8 @@ permalink: /
   <li><a href="https://sites.google.com/view/yumotolab/" target="_blank">湯本 高行</a>（兵庫県立大学）</li>
 </ul>
 
+</section>
+
 <section class="content-box">
   <h2>過去の開催</h2>
   <div class="history-list">
