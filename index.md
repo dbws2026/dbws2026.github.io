@@ -28,9 +28,11 @@ permalink: /
 
 <section class="content-box">
   <h2>実行委員長</h2>
-- 莊司 慶行（静岡大学）
-- 灘本 明代（甲南大学）
-- 鈴木 優（岐阜大学）
+  <ul>
+    <li> 莊司 慶行（静岡大学）</li>
+    <li> 灘本 明代（甲南大学）</li>
+    <li> 鈴木 優（岐阜大学）</li>
+  </ul>
 </section>
 
 <section class="content-box">

@@ -40,5 +40,5 @@ permalink: /attend/
 
 # 懇親会について
 - ビアガーデンテラスBBQ リーダー浜松本店
-- [https://leader-bg.jp/floor3/index.html]
+- [https://leader-bg.jp/floor3/index.html](https://leader-bg.jp/floor3/index.html)
 - 飲み放題付き
