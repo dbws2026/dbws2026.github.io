@@ -17,4 +17,15 @@ permalink: /program/
     - 16:00 解散
 
 # プログラム詳細
-- 更新予定
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSaxj3608XbjmFtdvbx-S_1lJX1k7taQNS5ZhyCIxySERU84uYWVQfio1REdq_i8_Q5uZhGW0-J65Vx/pubhtml?gid=1915563000&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+## 備考：プログラム割り当て方針とルール
+- セッション設計
+    - 全8セッションで、各セッション10名～11名です
+    - 各セッションは1時間20分で、博士セッションだけ10分長く1時間30分です
+- 割り当て方針
+    - なるべく同学年を1つのセッションにまとめます
+    - なるべく同じ研究トピックの人は別セッションに割り当てます
+- 発表日時の変更について
+    - 基本的には、自分で交換相手を探してください
+    - 双方の合意があれば、スロットを交換してよいものとします
