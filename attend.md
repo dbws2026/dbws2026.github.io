@@ -27,7 +27,7 @@ permalink: /attend/
 
 
 # 当日のポスター貼り付け
-## レイアウトに従って、自分の発表番号のところにポスターを張ってください。
+- レイアウトに従って、自分の発表番号のところにポスターを張ってください。
 
 <section class="venue-photo-block">
   <figure class="venue-photo">
