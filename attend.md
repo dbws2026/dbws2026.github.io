@@ -26,6 +26,20 @@ permalink: /attend/
 を記載して下さい。
 
 
+# 当日のポスター貼り付け
+## レイアウトに従って、自分の発表番号のところにポスターを張ってください。
+
+<section class="venue-photo-block">
+  <figure class="venue-photo">
+    <img src="/assets/images/layout-01.png" alt="レイアウト">
+    <figcaption>レイアウト</figcaption>
+  </figure>
+</section>
+
+- 貼り付けはマグネットで行います
+- 張り替え時間が10分間しかありません。迅速に張り替えを行ってください。
+
+
 # 参加申し込み
 指導教員から指示されたGoogleスプレッドシートに記入してください。
 
@@ -42,3 +56,21 @@ permalink: /attend/
 - ビアガーデンテラスBBQ リーダー浜松本店
 - [https://leader-bg.jp/floor3/index.html](https://leader-bg.jp/floor3/index.html)
 - 飲み放題付き
+- *<font color="#FF0000">バス停「田町」または「尾張町」で降りてください</font>*
+
+## 懇親会の位置づけ
+- 全員参加で、乾杯して、二次会に一緒に行く仲間を探すことを目的とします。
+- あまり料理の量は出ません。浜松らしい料理も出ません
+- 各グループで、二次会を楽しんでください
+
+# 二次会のオススメ居酒屋
+- [たんと](https://tanto-otabe.com/)
+    - 浜松駅前に6件くらいある、遠州料理（浜松料理）専門の居酒屋
+- [石松餃子 JR浜松駅店](https://1402.jp/shop/hamamatsu.html)
+    - 駅の中にある餃子有名店。割と混んでるかも。LO21:30
+- 餃子男～ギョウザマン～（[肴町](https://nbpg101.gorp.jp/) [モール街](https://nbpg102.gorp.jp/) [田町](https://gyotheman.owst.jp/)）
+    - 割と新しくできた創作餃子で飲める飲み屋。3店舗ある
+- [遠州の松ちゃん](https://www.may-one.co.jp/shop/8313/)
+    - 駅中にある遠州料理の居酒屋。ちょっぴり高級
+- [坐・茶土家（ざ・ちゃっと）](https://www.hotpepper.jp/strJ001222784/)
+    - 駅中にある静岡おでんで飲める店。割と狭いので少人数向け
