@@ -34,7 +34,13 @@ permalink: /program/
 
 
 # プログラム詳細
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSaxj3608XbjmFtdvbx-S_1lJX1k7taQNS5ZhyCIxySERU84uYWVQfio1REdq_i8_Q5uZhGW0-J65Vx/pubhtml?gid=1915563000&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<div class="program-sheet">
+  <iframe
+    src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSaxj3608XbjmFtdvbx-S_1lJX1k7taQNS5ZhyCIxySERU84uYWVQfio1REdq_i8_Q5uZhGW0-J65Vx/pubhtml?gid=1915563000&amp;single=true&amp;widget=true&amp;headers=false"
+    title="2026年度 関西東海DBWS プログラム"
+    loading="lazy">
+  </iframe>
+</div>
 
 ## 備考：プログラム割り当て方針とルール
 - セッション設計
