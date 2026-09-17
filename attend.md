@@ -7,10 +7,10 @@ permalink: /attend/
 # 参加費
 - 学生：
     - 参加費：1,000円
-    - 懇親会費：3,000円
+    - 懇親会費：2,000円
 - 教員：
     - 参加費：10,000円
-    - 懇親会費：3,000円
+    - 懇親会費：2,000円
 
 ## 参加費・懇親会費の支払い方法
 
@@ -54,7 +54,7 @@ permalink: /attend/
 
 # 懇親会について
 - ビアガーデンテラスBBQ リーダー浜松本店
-- [https://leader-bg.jp/floor3/index.html](https://leader-bg.jp/floor3/index.html)
+- [https://leader-bg.jp/](https://leader-bg.jp/)
 - 飲み放題付き
 - *<font color="#FF0000">バス停「田町」または「尾張町」で降りてください</font>*
 
