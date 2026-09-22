@@ -49,6 +49,7 @@ permalink: /
   <li><a href="https://staff.aist.go.jp/ks.kim/" target="_blank">金 京淑</a>（産業技術総合研究所）</li>
   <li><a href="https://taka-coma.pro/" target="_blank">駒水 孝裕</a>（名古屋大学）</li>
   <li><a href="https://ohshimalab.github.io/" target="_blank">大島 裕明</a>（兵庫県立大学）</li>
+  <li><a href="https://www.db.is.i.nagoya-u.ac.jp/ja/group/members/" target="_blank">木村優介</a>（名古屋大学）</li>
   <li><a href="https://www.db.is.i.nagoya-u.ac.jp/ja/group/members/" target="_blank">杉浦 健人</a>（名古屋大学）</li>
   <li><a href="https://shoji-lab.github.io/" target="_blank">莊司 慶行</a>（静岡大学）</li>
   <li><a href="https://researchmap.jp/read0046630/?lang=japanese" target="_blank">田中 克己</a>（関西学院大学）</li>
@@ -59,7 +60,7 @@ permalink: /
   <li><a href="https://yamamotolab.net/" target="_blank">山本 岳洋</a>（兵庫県立大学）</li>
   <li><a href="https://hontolab.org/" target="_blank">山本 祐輔</a>（名古屋市立大学）</li>
   <li><a href="https://researchmap.jp/myoshikawa" target="_blank">吉川 正俊</a>（大阪成蹊大学）</li>
-  <li><a href="https://sites.google.com/view/yumotolab/" target="_blank">湯本 高行</a>（兵庫県立大学）</li>
+    <li><a href="https://sites.google.com/view/yumotolab/" target="_blank">湯本 高行</a>（兵庫県立大学）</li>
 </ul>
 
 </section>
