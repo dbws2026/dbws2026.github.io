@@ -111,7 +111,7 @@ permalink: /awards/
 </thead>
 <tbody>
 <tr class="best"><td>最優秀賞</td><td>1-10</td><td>大倉子龍</td><td>静岡大学</td></tr>
-<tr><td>優秀賞</td><td>1-9</td><td>中城 享太</td><td>兵庫県立大学</td></tr>
+<tr><td>優秀賞</td><td>1-9</td><td>中城 亨太</td><td>兵庫県立大学</td></tr>
 <tr><td>優秀賞</td><td>1-11</td><td>藤井桃花</td><td>同志社大学</td></tr>
 </tbody>
 </table>
@@ -179,7 +179,7 @@ permalink: /awards/
 <tr><th scope="col">賞</th><th scope="col">発表番号</th><th scope="col">氏名</th><th scope="col">所属</th></tr>
 </thead>
 <tbody>
-<tr class="best"><td>最優秀賞</td><td>6-5</td><td>付詩船</td><td>同志社大学</td></tr>
+<tr class="best"><td>最優秀賞</td><td>6-5</td><td>付詩貽</td><td>同志社大学</td></tr>
 <tr><td>優秀賞</td><td>6-2</td><td>小山優衣</td><td>甲南大学</td></tr>
 <tr><td>優秀賞</td><td>6-7</td><td>森晴香</td><td>同志社大学</td></tr>
 <tr><td>優秀賞</td><td>6-8</td><td>粕谷 俊介</td><td>兵庫県立大学</td></tr>
